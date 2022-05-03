@@ -1,6 +1,12 @@
 This website was designed in order to represent my personal portfolio. Currently a beta version has been uploaded to my domain aashiqumar.com, 
 soon the site will be upgraded to have some advance graphics.
 
++UPDATE NEWS+
+
+The news version will consist totally new UI and some backend coding with Firebase. The website is to going to look very cool and will undergo an new design makeover. Stay Tuned.
+
+- Umar
+
 The Full Version & High End version will be coming soon.
 
 
